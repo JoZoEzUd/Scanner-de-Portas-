@@ -14,5 +14,4 @@ Este scanner foi desenvolvido em Python com foco em simplicidade e clareza. Ele 
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/JoZoEzUd/Scanner-de-Portas-.git
-   cd Scanner-de-Portas-
+ python scanner.py -t (ip) -p (Porta,ex:20-80)
